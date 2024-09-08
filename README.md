@@ -5,8 +5,6 @@ eu criei este codigo sem meu sangue porem com um pouco de suor e muitas lagrimas
 - Meu codigo serve para identificar personagens de sense life que vou listar aqui em baixo
 Noah, Kaleb, Umbra, mortuus, Delet, Reaver, Lohan e Uller 
 apenas estas opções levaram a algum resultado!!!!
+Porém as tags Mercenário e CIF levam a agentes de cada lado firma e mercenários.
 
-**obrigado**
-Quero aqui agradecer a todos que ficaram do meu lado mesmo eu tentando desistir (algumas vezes)
-
-Meu mano botzinde1 que me acompanhou nessa jornada principalmente!
+tô com sono e só quero dormir, não vou explicar o código não...
